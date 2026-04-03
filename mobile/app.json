@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Universal Authenticator",
+    "slug": "universal-authenticator",
+    "version": "1.0.0",
+    "platforms": [
+      "ios"
+    ],
+    "sdkVersion": "50.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTabletMode": false,
+      "bundleIdentifier": "com.universal-authenticator.app"
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}
